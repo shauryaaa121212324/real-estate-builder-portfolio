@@ -22,3 +22,6 @@ A premium real estate builder website built using React, TypeScript, Tailwind CS
 ## Disclaimer
 
 This is a portfolio/demo project created for learning and showcase purposes.
+## Live Demo
+
+[View the live website](https://homezbuilders.netlify.app/)
