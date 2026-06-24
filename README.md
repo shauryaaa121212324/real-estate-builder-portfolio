@@ -19,10 +19,6 @@ A premium real estate builder website built using React, TypeScript, Tailwind CS
 * Supabase
 * Vite
 
-## Live Demo
-
-(Add your Netlify URL here)
-
 ## Disclaimer
 
 This is a portfolio/demo project created for learning and showcase purposes.
